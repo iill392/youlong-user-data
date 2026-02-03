@@ -9,6 +9,16 @@
       "consecutiveDays": 2,
       "createdAt": "2026-02-03T04:10:02.660Z",
       "updatedAt": "2026-02-03T21:41:37.654Z"
+    },
+    "user_wcoy_ml78j7pv": {
+      "userId": "user_wcoy_ml78j7pv",
+      "username": "1234",
+      "password": "111111",
+      "fragments": 0,
+      "lastCheckin": "",
+      "consecutiveDays": 0,
+      "createdAt": "2026-02-03T23:33:55.795Z",
+      "updatedAt": "2026-02-03T23:33:55.801Z"
     }
   }
 }
