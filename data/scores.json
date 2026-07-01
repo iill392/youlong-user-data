@@ -77,6 +77,13 @@
       "normalWins": 0,
       "hardWins": 3,
       "lastUpdated": "2026-07-01T07:38:33.878Z"
+    },
+    "人": {
+      "totalScore": -100,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 0,
+      "lastUpdated": "2026-07-01T11:36:33.421Z"
     }
   }
 }
