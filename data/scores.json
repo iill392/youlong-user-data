@@ -105,6 +105,13 @@
       "normalWins": 0,
       "hardWins": 3,
       "lastUpdated": "2026-07-01T15:57:34.487Z"
+    },
+    "vs": {
+      "totalScore": -100,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 0,
+      "lastUpdated": "2026-07-01T16:26:31.351Z"
     }
   }
 }
