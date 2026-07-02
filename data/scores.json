@@ -1,6 +1,13 @@
 {
   "version": 1,
   "scores": {
+    "1": {
+      "totalScore": 20,
+      "easyWins": 1,
+      "normalWins": 0,
+      "hardWins": 0,
+      "lastUpdated": "2026-07-02T02:12:21.405Z"
+    },
     "66": {
       "totalScore": 1000,
       "easyWins": 0,
