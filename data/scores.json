@@ -245,6 +245,13 @@
       "normalWins": 0,
       "hardWins": 0,
       "lastUpdated": "2026-07-02T11:46:21.456Z"
+    },
+    "下雨": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-02T13:46:54.710Z"
     }
   }
 }
