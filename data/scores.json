@@ -238,6 +238,13 @@
       "normalWins": 0,
       "hardWins": 0,
       "lastUpdated": "2026-07-02T10:58:46.578Z"
+    },
+    "zzz": {
+      "totalScore": -100,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 0,
+      "lastUpdated": "2026-07-02T11:46:21.456Z"
     }
   }
 }
