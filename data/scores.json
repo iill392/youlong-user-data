@@ -203,6 +203,13 @@
       "normalWins": 0,
       "hardWins": 4,
       "lastUpdated": "2026-07-02T09:07:31.320Z"
+    },
+    "无": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-02T09:54:24.388Z"
     }
   }
 }
