@@ -126,6 +126,13 @@
       "normalWins": 1,
       "hardWins": 3,
       "lastUpdated": "2026-07-01T21:06:29.595Z"
+    },
+    "通知": {
+      "totalScore": 100,
+      "easyWins": 0,
+      "normalWins": 1,
+      "hardWins": 0,
+      "lastUpdated": "2026-07-02T00:59:17.164Z"
     }
   }
 }
