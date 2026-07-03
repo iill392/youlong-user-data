@@ -366,11 +366,11 @@
       "lastUpdated": "2026-07-03T04:05:04.756Z"
     },
     "老牧师": {
-      "totalScore": -100,
+      "totalScore": 900,
       "easyWins": 0,
       "normalWins": 0,
-      "hardWins": 0,
-      "lastUpdated": "2026-07-03T05:48:47.387Z"
+      "hardWins": 1,
+      "lastUpdated": "2026-07-03T05:53:08.878Z"
     }
   }
 }
