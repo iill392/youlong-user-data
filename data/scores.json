@@ -385,6 +385,13 @@
       "normalWins": 0,
       "hardWins": 0,
       "lastUpdated": "2026-07-03T06:05:41.835Z"
+    },
+    "文": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-03T07:50:42.775Z"
     }
   }
 }
