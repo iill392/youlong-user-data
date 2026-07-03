@@ -441,6 +441,13 @@
       "normalWins": 0,
       "hardWins": 12,
       "lastUpdated": "2026-07-03T17:27:05.837Z"
+    },
+    "Agent": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-03T17:48:10.685Z"
     }
   }
 }
