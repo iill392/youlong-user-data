@@ -373,11 +373,11 @@
       "lastUpdated": "2026-07-03T05:53:08.878Z"
     },
     "龙": {
-      "totalScore": -100,
-      "easyWins": 0,
+      "totalScore": -80,
+      "easyWins": 1,
       "normalWins": 0,
       "hardWins": 0,
-      "lastUpdated": "2026-07-03T05:54:59.131Z"
+      "lastUpdated": "2026-07-03T05:56:31.996Z"
     }
   }
 }
