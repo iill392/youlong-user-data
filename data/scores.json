@@ -434,6 +434,13 @@
       "normalWins": 1,
       "hardWins": 0,
       "lastUpdated": "2026-07-03T17:02:08.369Z"
+    },
+    "一字腰": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-03T17:20:07.618Z"
     }
   }
 }
