@@ -688,11 +688,11 @@
       "lastUpdated": "2026-07-04T12:58:55.968Z"
     },
     "，": {
-      "totalScore": 3000,
+      "totalScore": 3100,
       "easyWins": 0,
-      "normalWins": 0,
+      "normalWins": 1,
       "hardWins": 3,
-      "lastUpdated": "2026-07-04T13:17:28.039Z"
+      "lastUpdated": "2026-07-04T13:25:08.953Z"
     }
   }
 }
