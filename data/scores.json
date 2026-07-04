@@ -539,6 +539,13 @@
       "normalWins": 0,
       "hardWins": 27,
       "lastUpdated": "2026-07-04T07:31:13.666Z"
+    },
+    "67大队": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-04T07:58:39.863Z"
     }
   }
 }
