@@ -483,6 +483,13 @@
       "normalWins": 0,
       "hardWins": 0,
       "lastUpdated": "2026-07-04T00:31:29.786Z"
+    },
+    "小星": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-04T03:59:21.375Z"
     }
   }
 }
