@@ -569,11 +569,11 @@
       "lastUpdated": "2026-07-04T08:17:01.395Z"
     },
     "棋神": {
-      "totalScore": 2000,
+      "totalScore": 3000,
       "easyWins": 0,
       "normalWins": 0,
-      "hardWins": 2,
-      "lastUpdated": "2026-07-04T08:24:34.129Z"
+      "hardWins": 3,
+      "lastUpdated": "2026-07-04T08:25:58.762Z"
     }
   }
 }
