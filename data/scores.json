@@ -581,6 +581,13 @@
       "normalWins": 0,
       "hardWins": 21,
       "lastUpdated": "2026-07-04T08:45:28.200Z"
+    },
+    "fg": {
+      "totalScore": 20,
+      "easyWins": 1,
+      "normalWins": 0,
+      "hardWins": 0,
+      "lastUpdated": "2026-07-04T09:18:16.412Z"
     }
   }
 }
