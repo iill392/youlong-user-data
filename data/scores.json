@@ -805,6 +805,13 @@
       "normalWins": 0,
       "hardWins": 1,
       "lastUpdated": "2026-07-06T13:12:31.073Z"
+    },
+    "b": {
+      "totalScore": 1000,
+      "easyWins": 0,
+      "normalWins": 0,
+      "hardWins": 1,
+      "lastUpdated": "2026-07-07T11:35:21.022Z"
     }
   }
 }
