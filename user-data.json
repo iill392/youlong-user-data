@@ -52,5 +52,14 @@
     "birthdayChangeCount": 0,
     "birthdayLastChanged": "",
     "updatedAt": "2026-07-23T13:56:10.259Z"
+  },
+  "fp_lw4iam": {
+    "nickname": "一个小糖人",
+    "birthday": "2026-07-23",
+    "avatar": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='72' height='72' viewBox='0 0 72 72'%3E%3Crect fill='%23f0f0f0' width='72' height='72'/%3E%3Ctext x='36' y='44' text-anchor='middle' font-size='32' fill='%23ccc'%3E%F0%9F%91%A4%3C/text%3E%3C/svg%3E",
+    "deviceFingerprint": "fp_lw4iam",
+    "birthdayChangeCount": 0,
+    "birthdayLastChanged": "",
+    "updatedAt": "2026-07-23T14:00:31.564Z"
   }
 }
