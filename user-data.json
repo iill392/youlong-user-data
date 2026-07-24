@@ -79,5 +79,14 @@
     "birthdayChangeCount": 0,
     "birthdayLastChanged": "",
     "updatedAt": "2026-07-24T15:09:25.156Z"
+  },
+  "fp_gkfp81": {
+    "nickname": "块",
+    "birthday": "2026-07-02",
+    "avatar": "data:application/octet-stream;base64,YjBhZm4zaW01M3BkemF4OWFucnZxYQ==",
+    "deviceFingerprint": "fp_gkfp81",
+    "birthdayChangeCount": 0,
+    "birthdayLastChanged": "",
+    "updatedAt": "2026-07-24T15:28:48.697Z"
   }
 }
